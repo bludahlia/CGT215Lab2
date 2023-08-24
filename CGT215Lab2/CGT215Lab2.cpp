@@ -10,5 +10,5 @@ int main()
 	cout << "How many letters are in your last name? ";
 	cin >> B;
 	C = (B - A);
-	cout << "The difference in your names is: " << C << endl;
+	cout << "The difference between your names is: " << C << endl;
 }
